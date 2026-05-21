@@ -3,8 +3,8 @@
 Dieses Projekt dokumentiert meine praktische Einarbeitung in moderne Systemintegration parallel zu meiner Umschulung.
 
 ## Aktueller Stand
-- [ ] Phase 1: Linux-Server Setup & Docker Containerisierung (in Arbeit)
-- [ ] Phase 2: Automatisierung mit Ansible 
+- [x] Phase 1: Linux-Server Setup & Docker Containerisierung
+- [ ] Phase 2: Automatisierung mit Ansible (in Arbeit)
 - [ ] Phase 3: CI/CD Pipeline mit GitHub Actions
 
 ## Zielsetzung

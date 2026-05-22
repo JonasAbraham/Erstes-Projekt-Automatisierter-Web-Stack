@@ -4,8 +4,8 @@ Dieses Projekt dokumentiert meine praktische Einarbeitung in moderne Systeminteg
 
 ## Aktueller Stand
 - [x] Phase 1: Linux-Server Setup & Docker Containerisierung
-- [ ] Phase 2: Automatisierung mit Ansible (in Arbeit)
-- [ ] Phase 3: CI/CD Pipeline mit GitHub Actions
+- [x] Phase 2: Automatisierung mit Ansible 
+- [ ] Phase 3: CI/CD Pipeline mit GitHub Actions (in Arbeit)
 
 ## Zielsetzung
 Vollautomatische Bereitstellung eines Web-Stacks, um den manuellen Administrationsaufwand zu minimieren.
